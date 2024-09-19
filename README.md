@@ -59,7 +59,7 @@ python3 manage.py runserver
 </details>
 
 **POST добавление нового продукта**<br>
-`http://localhost/api/v1/titles/{title_id}/reviews/`
+`http://127.0.0.1:8000/api/v1/products/`
 <details><summary>Request</summary>
 {<br>
     "name": "string",<br>
